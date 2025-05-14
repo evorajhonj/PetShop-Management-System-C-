@@ -1,0 +1,1 @@
+﻿INSERT INTO dbinfo (name, password, usertype) VALUES ('user', 'user', 'User');
